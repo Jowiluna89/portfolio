@@ -202,4 +202,22 @@ container-form{
     background-color: blueviolet;
 }
 
+.containerfoot{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.footer-row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footer-link{
+    width: 75%;
+    padding: 0 15px;
+}
+
+
+
+
 
